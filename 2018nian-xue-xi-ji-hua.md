@@ -6,15 +6,10 @@
 
 1. 学习统计理论知识
 2. 学习统计软件: STATA, R, SAS, Python
+   1. SAS certificate
 3. 尝试学习编程， 从coursera 基础课程开始
 4. 尝试学习生物统计知识
 5. 还要继续学习英语啊
-
-
-
-
-
-
 
 
 
